@@ -1,0 +1,21 @@
+/* .header{
+    padding-left: 2rem;
+} */
+.nav_btn{
+    background-color: transparent;
+    border: none;
+}
+.Hover_btn{
+    background-color: transparent;
+    color: white;
+    height: 2rem;
+    border-color: white;
+    border-radius: 15px;
+    /* transition: width 2s, height 4s; */
+    /* animation-duration: 3s; */
+    cursor: pointer;
+
+}
+.img.pt-2{
+    cursor: pointer !important;
+}

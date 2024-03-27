@@ -1,0 +1,82 @@
+.mint_head {
+  color: #CEE3D4;
+  /* color: white; */
+    /* font-family: Berlin Sans FB Demi; */
+    font-family: 'Poppins';
+    font-weight: 700;
+    /* text-shadow: 2px 2px 4px #000000; */
+    font-size: 30px;
+}
+
+.price_heading {
+    color: aliceblue;
+    font-family: Poppins;
+    font-size: 20px;
+}
+
+.features {
+    color: aliceblue;
+    font-family: Poppins;
+    font-size: 15px;
+}
+
+.back_btn {
+    background-color: transparent;
+    color: white;
+    font-family: 'Poppins';
+    border-width: 1px;
+    border-color: aliceblue;
+    border-radius: 5px;
+    margin-left: 7rem;
+}
+
+.card_content {
+    color: white;
+    width: 380px;
+}
+
+.inner_card {
+    width: 350px;
+}
+
+.con_btn {
+    background-color: rgb(242, 243, 245);
+    color: black;
+    
+    width: 200px;
+    border-color: aliceblue;
+    border-radius: 5px;
+}
+.con_btn:hover{
+    color: aliceblue;
+    background-color: transparent;
+    }
+.con_btn1 {
+    color: rgb(25, 187, 47);
+    background-color: transparent;
+    width: 100px;
+    /* height: 30px; */
+    /* border-color: aliceblue; */
+    /* border-radius: 5px; */
+    border: none;
+}
+
+.supply {
+    color: white;
+}
+
+.buy_btn {
+    color: aliceblue;
+    background-color: transparent;
+    border-radius: 3px;
+    border-color: white;
+    width: 100px;
+}
+@media screen and (max-width:767px){
+.card_content{
+    width: 335px;
+}
+.inner_card{
+    width: 300px;
+}
+}

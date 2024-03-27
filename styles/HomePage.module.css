@@ -1,0 +1,1173 @@
+.img {
+    width: 637px;
+    height: 632px;
+}
+
+.fun {
+    font-family: poppins;
+    /* font-weight: 700; */
+    font-size: 24px;
+    line-height: 51px;
+    text-align: center;
+
+    color: #CEE3D4;
+}
+
+.gallons {
+    font-family: poppins;
+    /* font-weight: 700; */
+    font-size: 24px;
+    color: #CEE3D4;
+}
+
+.gallons_txt {
+    font-family: 'Poppins';
+    /* font-weight: 400; */
+    font-size: 15px;
+    color: aliceblue;
+}
+
+.whiteList{
+    font-size: 35px;
+    color: #CEE3D4;
+    font-family: poppins;
+    /* font-weight: 700; */
+  }
+  .whiteList_content{
+    color: aliceblue;
+    font-size: 15px;
+    font-family: poppins;
+  }
+  .communityHead{
+    font-size: 35px;
+    color: #CEE3D4;
+    font-family: poppins;
+    /* font-weight: 700; */
+  }
+  .communityList{
+    font-size: 16px;
+    color: aliceblue;
+    font-family: poppins;
+  }
+
+
+/* .Carousel{
+    text-align: center;
+    max-height: fit-content;
+    color:#FFFFFF ;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 23px;
+    border: 1px solid #FFFFFF;
+    border-radius: 13px;
+    
+} */
+.carouselInner {
+    font-family: 'Poppins';
+    border: 0.5px solid;
+    width: 761px;
+    height: 326px;
+
+    /* font-weight: 400; */
+    font-size: 30px;
+    line-height: 45px;
+
+    color: #FFFFFF;
+
+}
+
+.engaging {
+    border: 3px solid;
+    width: 300px;
+    height: 250px;
+}
+
+.mySlides fade {
+    font-family: 'Poppins';
+    font-style: normal;
+    /* font-weight: 400; */
+    font-size: 30px;
+    line-height: 45px;
+
+    color: #FFFFFF;
+
+}
+
+.team {
+    font-family: poppins;
+    /* font-weight: 700; */
+    font-size: 24px;
+    /* line-height: 51px; */
+
+    text-align: center;
+
+    color: #CEE3D4;
+
+}
+
+.mission {
+    font-family:poppins;
+    /* font-weight: 700; */
+    font-size: 24px;
+    /* line-height: 51px; */
+
+    text-align: center;
+
+    color: #CEE3D4;
+
+}
+
+.mission_text {
+    font-family: 'Poppins';
+    font-style: normal;
+    /* font-weight: 400; */
+    font-size: 30px;
+    line-height: 45px;
+
+    color: #FEFEFE;
+
+}
+
+.coding {
+    width: 28rem;
+    /* height: 40rem; */
+    background: #272730d1 !important;
+    border: 1px solid #fff;
+    border-radius: 10px;
+    transition: margin-top 2s;
+
+}
+/* 
+.coding:hover {
+    margin-top: 120px;
+    transition: margin-top 2s, height 4s;
+} */
+
+.codingTitle {
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 45px;
+    text-align: center;
+    text-decoration-line: underline;
+    color: #FFFFFF;
+
+}
+
+.codingul {
+    font-family: 'Poppins';
+    font-weight: 500;
+    /* margin-top: 60px; */
+    font-size: 18px;
+    line-height: 27px;
+
+    color: #FFFFFF;
+
+
+}
+
+.codingp {
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 18px;
+    text-align: center;
+
+    color: #FFFFFF;
+
+}
+
+.codingurl {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    text-align: center;
+    color: #FFFFFF;
+
+}
+
+.currency {
+    /* margin-top: 150px; */
+
+
+}
+
+.currencyText {
+    font-family: poppins;
+    /* font-weight: 700; */
+    font-size: 24px;
+    line-height: 37;
+    text-align: center;
+
+    color: #CEE3D4;
+}
+
+.Metaverse {
+    font-family: 'Poppins';
+    /* font-weight: 400; */
+    font-size: 16px;
+    line-height: 35px;
+
+    color: #FFFFFF;
+
+
+}
+
+.phase {
+    /* margin-top: 200px; */
+}
+
+.phaseText {
+    font-family: poppins;
+    /* font-weight: 700; */
+    font-size: 24px;
+    line-height: 37px;
+    text-align: center;
+    color: #CEE3D4;
+
+}
+
+/* .phaseImage {
+    position: absolute;
+    width: 1484px;
+    height: 426px;
+    left: 14px;
+    top: 12180px;
+    margin-bottom: 100px;
+
+} */
+
+.footer {
+    margin-top: 200px;
+
+
+}
+
+.footerText {
+    font-family: poppins;
+    /* font-weight: 700; */
+    font-size: 29px;
+    line-height: 0px;
+    text-align: center;
+    color: #CEE3D4;
+
+}
+
+.footerP {
+    font-family: 'Poppins';
+    /* font-weight: 400; */
+    font-size: 17px;
+    line-height: 23px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.abeDiv {
+    background: #272730d1;
+}
+
+.abe {
+    font-family: poppins;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 34px;
+
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.abeul {
+    font-family: 'Poppins';
+    /* font-weight: 400; */
+    font-size: 20px;
+    line-height: 30px;
+
+
+}
+.abeIMG{
+    border: #FFFFFF !important ;
+    border-width: 1rem !important;
+  }
+
+.missionText {
+    font-family: 'Poppins';
+    font-style: normal;
+    /* font-weight: 400; */
+    font-size: 16px;
+    line-height: 27px;
+
+    color: #FEFEFE;
+
+}
+
+.basicInfo {
+    background-color: transparent;
+    color: #CEE3D4;
+    font-family: 'Poppins';
+    /* width: 101px;
+    height: 30px; */
+    /* box-sizing: content-box; */
+    border-width: 1px;
+    border-style: solid;
+    border-image: linear-gradient(to right, #1874BA, #FFFFFF);
+    border-image-slice: 1;
+    margin-top: 150px;
+}
+
+.basiclogo {
+    margin-top: 150px;
+
+}
+
+.cr_text {
+    font-family: 'Poppins';
+    font-style: normal;
+    /* font-weight: 400; */
+    font-size: 15px;
+    color: #FFFFFF;
+}
+
+.cr_card {
+    background-color: transparent !important;
+    border: 1px solid aliceblue !important;
+    border-radius: 10px !important;
+    /* min-width :600px !important; */
+    min-height: 195px !important;
+    max-height: 250px !important;
+}
+
+.cr_bt {
+    width: 12px;
+    height: 0px;
+    margin: 0% 8px;
+border: none;
+    z-index: 2;
+    box-shadow: #fff !important;
+    cursor: pointer;
+
+}
+
+@media only screen and (max-width: 567px) {
+
+    .gallons {
+        font-family: poppins;
+        /* font-weight: 700; */
+        font-size: 24px;
+        color: #CEE3D4;
+    }
+    .whiteList{
+        font-size: 24px;
+        color: #CEE3D4;
+        font-family: poppins;
+        /* font-weight: 700; */
+      }
+    
+.footerP {
+    font-family: 'Poppins';
+    /* font-weight: 400; */
+    font-size: 17px;
+    line-height: 23px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+    .footerText {
+        font-family: poppins;
+        /* font-weight: 700; */
+        font-size: 29px;
+        line-height: 0px;
+        text-align: center;
+        color: #CEE3D4;
+    
+    }
+    
+    .Metaverse {
+        font-family: 'Poppins';
+        /* font-weight: 400; */
+        font-size: 15px;
+        line-height: 30px;
+    
+        color: #FFFFFF;
+    
+    
+    }
+    
+.currencyText {
+    font-family: poppins;
+    /* font-weight: 700; */
+    font-size: 24px;
+    line-height: 37px;
+    text-align: center;
+
+    color: #CEE3D4;
+}
+
+
+.missionText {
+    font-family: 'Poppins';
+    font-style: normal;
+    /* font-weight: 400; */
+    font-size: 16px;
+    line-height: 27px;
+
+    color: #FEFEFE;
+
+}
+
+    .mission {
+        font-family: poppins;
+        /* font-weight: 700; */
+        font-size: 24px;
+        /* line-height: 51px; */
+    
+        text-align: center;
+    
+        color: #CEE3D4;
+    
+    }
+    
+.cr_bt {
+    width: 12px;
+    height: 0px;
+    margin: 0% 8px;
+    z-index: 2;
+    box-shadow: #fff !important;
+    cursor: pointer;
+
+}
+
+    .cr_card {
+        border: none !important;
+        min-height: 195px !important;
+        max-height: 250px !important;
+    }
+
+    .fun {
+        font-family: poppins;
+        /* font-weight: 700; */
+        font-size: 24px;
+        line-height: 38px;
+        text-align: center;
+
+        color: #CEE3D4;
+    }
+
+
+
+    .team {
+        font-family: poppins;
+        /* font-weight: 700; */
+        font-size: 24px;
+        /* line-height: 51px; */
+
+        text-align: center;
+
+        color: #CEE3D4;
+
+    }
+    .phaseText {
+        font-family: poppins;
+        /* font-weight: 700; */
+        font-size: 24px;
+        line-height: 37px;
+        text-align: center;
+    
+    
+    
+        color: #CEE3D4;
+    
+    }
+    
+
+
+}
+
+@media only screen and (min-width: 600px) {
+
+    .gallons {
+        font-family: poppins;
+        /* font-weight: 700; */
+        font-size: 28px;
+        color: #CEE3D4;
+    }
+
+    .footerP {
+        font-family: 'Poppins';
+        /* font-weight: 400; */
+        font-size: 20px;
+        line-height: 27px;
+        text-align: center;
+    
+        color: #FFFFFF;
+    }
+    .footerText {
+        font-family: poppins;
+        /* font-weight: 700; */
+        font-size: 35px;
+        line-height: 10px;
+        text-align: center;
+        color: #CEE3D4;
+    
+    }
+    
+    .phaseText {
+        font-family:poppins;
+        /* font-weight: 700; */
+        font-size: 26px;
+        line-height: 39px;
+        text-align: center;
+    
+    
+    
+        color: #CEE3D4;
+    
+    }
+    
+
+    .Metaverse {
+        font-family: 'Poppins';
+        /* font-weight: 400; */
+        font-size: 18px;
+        line-height: 37px;
+    
+        color: #FFFFFF;
+    
+    
+    }
+
+    .currencyText {
+        font-family: poppins;
+        /* font-weight: 700; */
+        font-size: 26px;
+        line-height: 40px;
+        text-align: center;
+    
+        color: #CEE3D4;
+    }
+
+    .missionText {
+        font-family: 'Poppins';
+        font-style: normal;
+        /* font-weight: 400; */
+        font-size: 18px;
+        line-height: 27px;
+    
+        color: #FEFEFE;
+    
+    }
+
+    .mission {
+        font-family: poppins;
+        /* font-weight: 700; */
+        font-size: 28px;
+        /* line-height: 51px; */
+    
+        text-align: center;
+    
+        color: #CEE3D4;
+    
+    }
+    
+    .cr_bt {
+        width: 12px;
+        height: 5px;
+        margin: 0% 8px;
+        z-index: 2;
+        box-shadow: #fff !important;
+        cursor: pointer;
+    
+    }
+    
+    .cr_card {
+        border: none !important;
+        min-height: 200px !important;
+        max-height: 250px !important;
+    }
+
+    .fun {
+        font-family: poppins;
+        /* font-weight: 700; */
+        font-size: 28px;
+        line-height: 51px;
+        text-align: center;
+
+        color: #CEE3D4;
+    }
+
+    .team {
+        font-family:poppins;
+        /* font-weight: 700; */
+        font-size: 28px;
+        /* line-height: 51px; */
+
+        text-align: center;
+
+        color: #CEE3D4;
+
+    }
+
+
+
+}
+
+@media only screen and (min-width: 768px) {
+
+    .gallons {
+        font-family: poppins;
+        /* font-weight: 700; */
+        font-size: 30px;
+        color: #CEE3D4;
+    }
+    
+.footerP {
+    font-family: 'Poppins';
+    /* font-weight: 400; */
+    font-size: 22px;
+    line-height: 30px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+.footerText {
+    font-family: poppins;
+    /* font-weight: 700; */
+    /* font-size: 40px; */
+    line-height: 20px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #CEE3D4;
+
+}
+
+    .phaseText {
+        font-family: poppins;
+        /* font-weight: 700; */
+        font-size: 28px;
+        line-height: 42px;
+        text-align: center;
+    
+    
+    
+        color: #CEE3D4;
+    
+    }
+    
+    .Metaverse {
+        font-family: 'Poppins';
+        /* font-weight: 400; */
+        font-size: 20px;
+        line-height:40 px;
+    
+        color: #FFFFFF;
+    
+    
+    }
+    .currencyText {
+        font-family: poppins;
+        /* font-weight: 700; */
+        font-size: 35px;
+        line-height: 45px;
+        text-align: center;
+    
+        color: #CEE3D4;
+    }
+    .missionText {
+        font-family: 'Poppins';
+        font-style: normal;
+        /* font-weight: 400; */
+        font-size: 20px;
+        line-height: 30px;
+    
+        color: #FEFEFE;
+    
+    }
+    
+.mission {
+    font-family: poppins;
+    /* font-weight: 700; */
+    font-size: 30px;
+    /* line-height: 51px; */
+
+    text-align: center;
+
+    color: #CEE3D4;
+
+}
+    .cr_bt {
+        width: 12px;
+        height: 7px;
+        margin: 0% 8px;
+    border-radius: 30%;
+
+        z-index: 2;
+        box-shadow: #fff !important;
+        cursor: pointer;
+    
+    }
+
+    .cr_card {
+        border: none !important;
+        min-height: 200px !important;
+        max-height: 250px !important;
+    }
+
+
+    .fun {
+        font-family: poppins;
+        /* font-weight: 700; */
+        font-size: 30px;
+        line-height: 51px;
+        text-align: center;
+
+        color: #CEE3D4;
+    }
+
+    .team {
+        font-family: poppins;
+        /* font-weight: 700; */
+        font-size: 30px;
+        /* line-height: 51px; */
+
+        text-align: center;
+
+        color: #CEE3D4;
+
+    }
+
+
+}
+
+@media only screen and (min-width: 992px) {
+
+    .gallons {
+        font-family: poppins;
+        /* font-weight: 700; */
+        font-size: 35px;
+        color: #CEE3D4;
+    }
+    
+.footerP {
+    font-family: 'Poppins';
+    /* font-weight: 400; */
+    font-size: 24px;
+    line-height: 40px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+    .phaseText {
+        font-family: poppins;
+        /* font-weight: 700; */
+        font-size: 33px;
+        line-height: 45px;
+        text-align: center;
+        color: #CEE3D4;
+    
+    }
+    
+.footerText {
+    font-family: poppins;
+    /* font-weight: 700; */
+    font-size: 45px;
+    line-height: 35px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #CEE3D4;
+
+}
+
+    .Metaverse {
+        font-family: 'Poppins';
+        /* font-weight: 400; */
+        font-size: 20px;
+        line-height: 30px;
+        color: #FFFFFF;
+    
+    
+    }
+    .currencyText {
+        font-family: poppins;
+        /* font-weight: 700; */
+        font-size: 40px;
+        line-height: 50px;
+        text-align: center;
+    
+        color: #CEE3D4;
+    }
+.cr_text{
+    font-size: 20px;
+    line-height: 23px;
+}
+    .currencyText {
+        font-family:poppins;
+        /* font-weight: 700; */
+        font-size: 40px;
+        line-height: 51px;
+        text-align: center;
+    
+        color: #CEE3D4;
+    }
+    .missionText {
+        font-family: 'Poppins';
+        font-style: normal;
+        /* font-weight: 400; */
+        font-size: 20px;
+        line-height: 30px;
+    
+        color: #FEFEFE;
+    
+    }
+
+    .mission {
+        font-family: poppins;
+        /* font-weight: 700; */
+        font-size: 35px;
+        /* line-height: 51px; */
+    
+        text-align: center;
+    
+        color: #CEE3D4;
+    
+    }
+    
+    .cr_bt {
+        width: 12px;
+        height: 10px;
+        margin: 0% 8px;
+    border-radius: 40%;
+
+        z-index: 2;
+        box-shadow: #fff !important;
+        cursor: pointer;
+    
+    }
+
+    .cr_card {
+        border: none !important;
+        min-height: 225px !important;
+        max-height: 250px !important;
+    }
+    .fun {
+        font-family: poppins;
+        /* font-weight: 700; */
+        font-size: 35px;
+        line-height: 51px;
+        text-align: center;
+
+        color: #CEE3D4;
+    }
+
+    .team {
+        font-family: poppins;
+        /* font-weight: 700; */
+        font-size: 35px;
+        /* line-height: 51px; */
+
+        text-align: center;
+
+        color: #CEE3D4;
+
+    }
+
+
+}
+
+@media only screen and (min-width: 1200px) {
+
+    .gallons {
+        font-family: poppins;
+        /* font-weight: 700; */
+        font-size: 45px;
+        color: #CEE3D4;
+    }
+
+
+    .missionText {
+        font-family: 'Poppins';
+        font-style: normal;
+        /* font-weight: 400; */
+        font-size: 25px;
+        line-height: 30px;
+    margin-top: 10rem;
+        color: #FEFEFE;
+    
+    }
+    
+.footerP {
+    font-family: 'Poppins';
+    /* font-weight: 400; */
+    font-size: 24px;
+    line-height: 30px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+    .phaseText {
+        font-family: poppins;
+        /* font-weight: 700; */
+        font-size: 45px;
+        /* line-height: 51px; */
+        text-align: center;
+        color: #CEE3D4;
+    
+    }
+    
+
+    .footerText {
+        font-family: poppins;
+        /* font-weight: 700; */
+        font-size: 60px;
+        line-height: 65px;
+    
+        text-align: center;
+    
+        color: #CEE3D4;
+    
+    }
+    
+
+    .Metaverse {
+        font-family: 'Poppins';
+        /* font-weight: 400; */
+        font-size: 24px;
+        line-height: 30px;
+    
+        color: #FFFFFF;
+    
+    
+    }
+    .currencyText {
+        font-family: poppins;
+        /* font-weight: 700; */
+        font-size: 45px;
+        /* line-height: 51px; */
+        text-align: center;
+    
+        color: #CEE3D4;
+    }
+    
+.mission {
+    font-family: poppins;
+    /* font-weight: 700; */
+    font-size: 45px;
+    /* line-height: 51px; */
+
+    text-align: center;
+
+    color: #CEE3D4;
+
+}
+    .cr_bt {
+        width: 12px;
+        height: 12px;
+        margin: 0% 8px;
+    border-radius: 50%;
+
+        z-index: 2;
+        box-shadow: #fff !important;
+        cursor: pointer;
+    
+    }
+
+    .cr_card {
+        border: 1px solid aliceblue !important;
+        border-radius: 10px !important;
+        /* border: none !important; */
+        min-height: 250px !important;
+        max-height: 250px !important;
+    }
+    .fun {
+        font-family: poppins;
+        /* font-weight: 700; */
+        font-size: 45px;
+        /* line-height: 51px; */
+        text-align: center;
+
+        color: #CEE3D4;
+    }
+
+    .team {
+        font-family: poppins;
+        /* font-weight: 700; */
+        font-size: 45px;
+        /* line-height: 51px; */
+
+        text-align: center;
+
+        color: #CEE3D4;
+
+    }
+
+
+
+
+}
+
+@media only screen and (min-width: 567px) {
+
+    .gallons_txt {
+        font-family: 'Poppins';
+        /* font-weight: 400; */
+        font-size: 16px;
+        color: aliceblue;
+    }
+}
+
+@media only screen and (min-width: 600px) {
+
+    .gallons_txt {
+        font-family: 'Poppins';
+        /* font-weight: 400; */
+        font-size: 18px;
+        color: aliceblue;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+
+    .gallons_txt {
+        font-family: 'Poppins';
+        /* font-weight: 400; */
+        font-size: 20px;
+        color: aliceblue;
+    }
+}
+
+@media only screen and (min-width: 992px) {
+
+    .gallons_txt {
+        font-family: 'Poppins';
+        /* font-weight: 400; */
+        font-size: 20px;
+        color: aliceblue;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    .whiteList{
+        font-size: 45px;
+        color: #CEE3D4;
+        font-family: poppins;
+        /* font-weight: 700; */
+      }
+      .whiteList_content{
+        color: aliceblue;
+        font-size: 24px;
+        font-family: poppins;
+      }
+      .communityHead{
+        font-size: 35px;
+        color: #CEE3D4;
+        font-family: poppins;
+        font-weight: 700;
+      }
+      .communityList{
+        font-size: 24px;
+        color: aliceblue;
+        font-family: poppins;
+      }
+    .gallons_txt {
+        font-family: 'Poppins';
+        /* font-weight: 400; */
+        font-size: 24px;
+        line-height: 30px;
+        color: aliceblue;
+    }
+    
+.cr_text {
+    font-family: 'Poppins';
+    font-style: normal;
+    /* font-weight: 400; */
+    font-size: 24px;
+    line-height: 30px;
+    color: aliceblue;
+}
+}
+/* 
+@media all and (min-width:1904px) and (max-width:2660px) {
+    .large_device{
+      max-width: none !important;
+      padding: 0 8rem;
+    }
+    .gallons{
+        font-size: 65px;
+    }
+    .gallons_txt{
+        font-size: 40px;
+        line-height: 75px;
+    }
+    .fun{
+        font-size: 70px;
+    }
+    .cr_text{
+        font-size: 37px;
+        line-height: 62px;
+    }
+    .team{
+        font-size: 70px;
+line-height: 100px;
+    }
+    .lead_card{
+        width: 55rem;
+        height: 50rem;
+    
+    }
+    .abe{
+        font-size: 60px;
+    }
+    .abeul{
+        font-size: 45px;
+        line-height: 60px;
+    }
+    .mission{
+        font-size: 70px;
+        line-height: 95px;
+    }
+    .phaseText{
+    font-size: 70px;
+    }
+    .currencyText{
+        font-size: 70px;
+    }
+    .Metaverse{
+        font-size: 40px;
+        line-height: 65px;
+    }
+    .footerText{
+        font-size: 80px;
+    }
+    .footerP{
+        font-size: 50px;
+        line-height: 70px;
+    }
+    .coding{
+        width: 60rem;
+        height: 65rem;
+    }
+    .codingp{
+        font-size: 40px;
+    }
+    .codingurl{
+        font-size: 35px;
+    }
+    .codingul{
+        font-size: 25px;
+        line-height: 35px;
+    }
+    .codingTitle{
+        font-size: 45px;
+        line-height: 50px;
+    }
+.missionText{
+    font-size: 45px;
+    line-height: 55px;
+} */
+
+/* } */
